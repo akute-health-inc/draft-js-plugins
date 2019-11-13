@@ -7,9 +7,9 @@ This plugin allows you to add mentions to your editor!
 Usage:
 
 ```js
-import createMentionPlugin from 'draft-js-mention-plugin';
+import createMacroPlugin from 'draft-js-macro-plugin';
 
-const mentionPlugin = createMentionPlugin({ mentions });
+const macroPlugin = createMacroPlugin({ mentions });
 ```
 
 ## Importing the default styles
