@@ -27,6 +27,7 @@
     "draft-js-inline-toolbar-plugin",
     "draft-js-linkify-plugin",
     "draft-js-mention-plugin",
+    "draft-js-macro-plugin",
     "draft-js-plugins-editor",
     "draft-js-plugins-utils",
     "draft-js-resizeable-plugin",
